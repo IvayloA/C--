@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481456728 source:c:\users\Иво\desktop\c++\kursovarabota\src\zadacha1.cpp
+	<iostream>
+	<string>
+	<fstream>
+
